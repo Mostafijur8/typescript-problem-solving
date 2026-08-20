@@ -12,6 +12,6 @@ function getTicketPrice(age: number): number {
 console.log(getTicketPrice(3));
 console.log(getTicketPrice(10));
 console.log(getTicketPrice(25));
-console.log(getTicketPrice(65));
+console.log(getTicketPrice(65));//120
 
 
